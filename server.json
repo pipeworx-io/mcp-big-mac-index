@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/big-mac-index",
+  "title": "Big Mac Index",
+  "description": "big-mac-index — The Economist's Big Mac index: what a Big Mac costs in each country, in local…",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/big-mac-index",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-big-mac-index",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/big-mac-index/mcp"
+    }
+  ]
+}
