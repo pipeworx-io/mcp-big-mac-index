@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-big-mac-index",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "big-mac-index — The Economist's Big Mac index: what a Big Mac costs in each country, in local currency and in dollars, and how far each currency is over- or under-valued against the dollar, euro, pound, yen and yuan by burgernomics (raw) and after adjusting for GDP per person (adjusted).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "big-mac-index",
     "gatewaySlug": "big-mac-index",
-    "sourceHash": "v1-3078cbfcd1d248acc5b2921d00621e993097754e35bf454fcc7d55397d065084",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-b17c0ba629848f7114d2c9744490e8d0a6e4022c202e84b0ece0a6f258fbb3b9",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
